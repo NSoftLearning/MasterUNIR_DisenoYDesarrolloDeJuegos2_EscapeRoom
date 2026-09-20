@@ -106,6 +106,7 @@ Material:
     - _Dust_Colour: {r: 0.4558824, g: 0.4196799, b: 0.3653763, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &2603160446150191088
 MonoBehaviour:
   m_ObjectHideFlags: 11
