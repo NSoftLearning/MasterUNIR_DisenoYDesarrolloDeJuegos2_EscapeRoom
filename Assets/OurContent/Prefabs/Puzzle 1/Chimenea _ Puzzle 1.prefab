@@ -7211,6 +7211,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3850185486209383378, guid: d762f64c9b70c2c4588bd2f1313d0e3a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850185486209383378, guid: d762f64c9b70c2c4588bd2f1313d0e3a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7257,6 +7261,10 @@ PrefabInstance:
     - target: {fileID: 6448381926704041554, guid: d762f64c9b70c2c4588bd2f1313d0e3a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7866015776682115419, guid: d762f64c9b70c2c4588bd2f1313d0e3a, type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 9009246676042264754, guid: d762f64c9b70c2c4588bd2f1313d0e3a, type: 3}
       propertyPath: m_Name
