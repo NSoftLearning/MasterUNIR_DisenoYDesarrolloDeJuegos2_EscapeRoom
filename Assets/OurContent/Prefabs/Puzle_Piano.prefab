@@ -2160,6 +2160,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost_animation (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8017796919361815997, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3aa6352a59d947b4cb2d91d375a49051, type: 2}
     - target: {fileID: 8065264950435053390, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1
@@ -2238,6 +2242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost_animation (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8017796919361815997, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 155cbbfdd1db20f41a34dc1a0614c57f, type: 2}
     - target: {fileID: 8065264950435053390, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1
@@ -2316,6 +2324,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost_animation
       objectReference: {fileID: 0}
+    - target: {fileID: 8017796919361815997, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8742eb3cfdb8ef54c95910c82f376bbe, type: 2}
     - target: {fileID: 8065264950435053390, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1
@@ -2394,6 +2406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ghost_animation (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8017796919361815997, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: eb8d544eeab2997458498cda3aaae0aa, type: 2}
     - target: {fileID: 8065264950435053390, guid: 62d2a7f5da1084f6994dcbca19a2ddb2, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1
