@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Flashlight : MonoBehaviour
 {
-    public KeyCode toggle;
+    public KeyCode toggle = KeyCode.F;
     public Light flashlightLight;
 
     private void Start()
@@ -12,7 +12,7 @@ public class Flashlight : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKeyDown(toggle))
         {
             flashlightLight.enabled = !flashlightLight.enabled;
         }
