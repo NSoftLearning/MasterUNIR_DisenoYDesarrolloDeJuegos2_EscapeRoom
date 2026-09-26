@@ -31,7 +31,7 @@ public class SequenceControl : MonoBehaviour
     [ContextMenu (nameof (GoToNextStep))]
     public void GoToNextStep ()
     {
-        if (currentStep == sequenceSteps.Count())
+        if (currentStep == sequenceSteps.Count() - 1)
             return;
 
         sequenceSteps[currentStep].ExitStep();
